@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "41HVFetNagg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ans\\Desktop\\Automation with .NET\\LoginAutomationTests\\LoginAutomationTests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ans\\.nuget\\packages\\selenium.support\\4.25.0\\selenium.support.4.25.0.nupkg.sha512",
+    "C:\\Users\\ans\\.nuget\\packages\\selenium.webdriver\\4.25.0\\selenium.webdriver.4.25.0.nupkg.sha512",
+    "C:\\Users\\ans\\.nuget\\packages\\selenium.webdriver.chromedriver\\129.0.6668.5800\\selenium.webdriver.chromedriver.129.0.6668.5800.nupkg.sha512"
+  ],
+  "logs": []
+}
